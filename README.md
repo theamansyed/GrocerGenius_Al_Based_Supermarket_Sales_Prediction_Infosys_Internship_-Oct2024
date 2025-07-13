@@ -38,7 +38,7 @@ It was built as part of the **Infosys Springboard Internship (Oct 2024)**, apply
 
 ## 🖼 Interface Preview
 
-
+![App Screenshot](screenshot.png)
 
 ---
 
