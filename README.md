@@ -48,5 +48,5 @@ It was built as part of the **Infosys Springboard Internship (Oct 2024)**, apply
 
 ```bash
 git clone https://github.com/theamansyed/GrocerGenius_Al_Based_Supermarket_Sales_Prediction_Infosys_Internship_Oct2024.git
-cd GrocerGenius_Al_Based_Supermarket_Sales_Prediction_Infosys_Internship_Oct2024
+cd GrocerGenius_Al_Based_Supermarket_Sales_Prediction_Infosys_Internship_-Oct2024
 
